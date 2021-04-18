@@ -1,0 +1,17 @@
+{
+  "": {
+    "appTitle": "TestAPP",
+    "appDescription": "Business Application",
+    "Product": "Product",
+    "ProductType": "Product Type",
+    "ProductGroup": "Product Group",
+    "ItemCategoryGroup": "Item Category Group",
+    "ID": "Identity",
+    "region": "Region",
+    "country": "Country",
+    "countries": "Countries",
+    "amount": "Amount",
+    "comments": "Comments",
+    "boost": "Boost"
+  }
+}
